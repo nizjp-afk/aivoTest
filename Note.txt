@@ -1,0 +1,35 @@
+Hola mi nombre es Niz Juan Pablo y este es mi solucion al test de aivo sobre busqueda de videos de youtube.
+
+
+1-Lo primero que hice fue ingresar a la pagina de google cloud developer para tener acceso a un Api key donde me permita consumir
+los datos para poder realizar la busqueda y me devuelva los datos que estoy solicitando.
+
+2- Fue crear todas las variales y parametros para programar la busqueda en YouTube con PHP como se me habia solicitado en el test
+
+3- Desarrollar el codigo en PHP para youtube Search y mostrar todos los datos que se me solicitaron que son los siguiente:
+
+
+{
+	"published_at": "2009-10-09T13:15:12.000Z",
+	"id": "X8f5RgwY8CI",
+"title": "MUSE - Algorithm [Official Music Video]",
+"description": "Description here...",
+"thumbnail": "https://i.ytimg.com/vi/TPE9uSFFxrI/default.jpg",
+	"extra": {
+  	"something": “extra”
+	}
+},
+{}....
+
+4-En el ultimo paso fue recorrer dicho array con un foreach para poder llamar todos los datos y mostrarlo por pantalla.
+
+PD: Espero haber cumplido con todas las expectativas que se me plantearon en el test y realizarlo de la mejor manera posible, me diverti mucho realizando dicha prueba,
+espero poder formar parte de aivo y les mando un saludo desde La Rioja. 
+
+Espero su msj de respuesta,en caso de no llegar a cumplir con los requisitos quisiera saber en que falle para saber que es lo que tengo que mejorar para alguna otra prueba futura
+
+Muchas Gracias.
+
+Cordiales Saludos
+Lic.Niz Juan Pablo
+
